@@ -4,7 +4,6 @@ import os
 
 os.environ["OPENAI_API_BASE"] = "https://api.groq.com/openai/v1"
 os.environ["OPENAI_MODEL_NAME"] = "llama3.1-8b"
-os.environ["OPENAI_API_KEY"] = "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"
 
 
 # Initialize the model using Ollama's llama3
